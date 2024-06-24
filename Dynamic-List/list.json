@@ -1,0 +1,52 @@
+[
+ {
+    "name": "Senna",
+    "wins": 41,
+    "champion": true
+ },
+ {
+    "name": "Berger",
+    "wins": 10,
+    "champion": false
+ },
+ {
+    "name": "Boutsen",
+    "wins": 3,
+    "champion": false
+ },
+ {
+    "name": "Patrese",
+    "wins": 6,
+    "champion": false
+ },
+ {
+    "name": "Prost",
+    "wins": 51,
+    "champion": true
+ },
+ {
+    "name": "Nannini",
+    "wins": 1,
+    "champion": false
+ },
+ {
+    "name": "Piquet",
+    "wins": 23,
+    "champion": true
+ },
+ {
+    "name": "Alesi",
+    "wins": 1,
+    "champion": false
+ },
+ {
+    "name": "Alboreto",
+    "wins": 5,
+    "champion": false
+ },
+ {
+    "name": "Mansell",
+    "wins": 31,
+    "champion": true
+ }
+]

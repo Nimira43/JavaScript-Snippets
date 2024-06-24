@@ -30,3 +30,8 @@
     border-radius: 5px;
     box-shadow: 0 5px 15px #000000e6;
 }
+
+h1 {
+    text-align: center;
+    padding-bottom: 10px;
+}
